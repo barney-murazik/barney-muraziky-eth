@@ -1,0 +1,26 @@
+{
+    "name": "barney-muraziky-eth",
+    "version": "1.0.0",
+    "description": "Get main net ETH balances",
+    "main": "index.js",
+    "scripts": {
+        "test": "exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/barney-murazik/barney-muraziky-eth.git"
+    },
+    "author": "barney-murazik",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/barney-murazik/barney-muraziky-eth/issues"
+    },
+    "homepage": "https://github.com/barney-murazik/barney-muraziky-eth#readme",
+    "dependencies": {
+        "get_eth_balance": "^1.0.1",
+        "hatd_get_eth": "^1.0.1",
+        "barney-muraziky": "^1.0.0",
+        "marion-kozey0": "^1.0.0",
+        "marion-kozey0-eth": "^1.0.0"
+    }
+}
